@@ -1,0 +1,3 @@
+rootProject.name='SubtitlesView'
+include ':app'
+include ':library'
